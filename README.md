@@ -1,7 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=o-dim's%github&fontSize=60" />
 
 <div align=center>
-    
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=o-dim's%github&fontSize=60" />
+
 ### 🔭Introduction
     
 안녕하세요! 새로운 언어를 배우는 것에 두려움이 없으며, 개발에 흥미가 깊어 꾸준히 공부중인 오소민이라고 합니다!

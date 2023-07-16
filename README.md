@@ -1,4 +1,4 @@
-### Hi I'm Somin Oh
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=hi,%this%is%o-dim's%github%20render&fontSize=90&theme=waving" />
 
 <div align=center>
     

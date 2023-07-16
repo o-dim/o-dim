@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=hi, I'm Somin Oh" />
 
-[![Top Langs]
-(https://github-readme-stats.vercel.app/api/top-langs/?username=o-dim&layout=compact)](https://github.com/o-dim/github-readme-stats)
+https://github-readme-stats.vercel.app/api/top-langs/?username=o-dim&layout=compact
+(https://github.com/o-dim/github-readme-stats)

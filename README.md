@@ -7,7 +7,7 @@ backend developer
 
     
 ### 🌿Skills
-<img src="https://img.shields.io/badge/.NET-#512BD4?style=flat&logo=.NET&logoColor=white"> 
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.NET&logoColor=white"> 
 
 <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
